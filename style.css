@@ -1,0 +1,75 @@
+header{
+  width: 100%;
+  heigth: 50px;
+  background-color: #00FFCC;
+  color: #000000;
+}
+footer{
+  width: 100%;
+  height: 50px;
+  background-color: #30E0E6;
+  color:#A9A9A9;
+}
+Table{
+  width: 100%;
+  }
+  
+  #primaire{
+    background-color: #0000FF;
+    color: #FFFFFF;
+  }
+  #secundaire{
+    background-color:#808000;
+    color: #000000;
+  }
+  #teritaire{
+    background-color:#4B0082;
+    color:#E6E6FA;
+  }
+  #onofficiele{
+    background-color:#696969;
+    color:#DCDCDC;
+  }
+  #rood{
+    background-color:#B22222;
+    color:#808080;
+  }
+  #foto1{
+    background-color:#FFF4E1;
+  }
+  #paars{
+    background-color:#FF00FF;
+    color:#D8BFB8;
+  }
+  #foto2 {
+    background-color:#FFFACD;
+  }
+  #blauw{
+    background-color:#191917;
+    color:#B0E0E6;
+  }
+  #foto3{
+     background-color:#FFE4C4;
+    }
+  #bruin{
+    background-color:#DEB8B7;
+    color:#A0522D;
+  }
+  #foto4{
+    background-color:Lightcyan;
+      }
+  #geel{
+    background-color:#FFD700;
+    color:#5DB76B;
+  }
+  #foto5{
+    background-color:#FFF0F5;
+
+  }
+  #roze{
+    background-color:#FFC0C8;
+    color:#FF69B4;
+  }
+  #foto6{
+    background-color:#7FFFD4;
+  }
